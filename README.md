@@ -12,7 +12,7 @@
 - 공동: https://github.com/ssokeem/2022-summer-coding-test-study
 - 김소정: https://github.com/ssokeem/PS
 - 이재찬: https://github.com/jaeckiee/2022SummerYbigtaStudy
-- 임우찬:
+- 임우찬: https://github.com/woohoocheezy/yBigta_coding_test_2022_summer
 
 ## 커리큘럼
 - week1: DP
