@@ -6,7 +6,7 @@
 ## 스터디 방식
 - 매주 분류별 알고리즘 문제 풀이
 - 코드 개인 레포에 업로드
-- 매주 혹은 격주로 코드 리뷰
+- 격주로 코드 리뷰
 
 ## 깃헙 레포지토리 링크
 - 공동: https://github.com/ssokeem/2022-summer-coding-test-study
